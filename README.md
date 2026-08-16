@@ -1,4 +1,4 @@
-# qr-terminal
+# QR-terminal
 
 small python script, give it a link and it spits out the qr code straight in the terminal, no files saved.
 
@@ -7,13 +7,13 @@ small python script, give it a link and it spits out the qr code straight in the
 - python3
 - qrcode
 
-## install
+## Install
 
 ```
 pip install -r requirements.txt --break-system-packages
 ```
 
-## how to run
+## How to run
 
 ```
 python3 qr_terminal.py
