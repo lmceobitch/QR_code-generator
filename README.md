@@ -20,4 +20,19 @@ python3 qr_terminal.py
 ```
 
 it asks for a link and gives you the qr code right in the console.
-# QR_code-generator
+
+## example
+
+```
+$ python3 qr_terminal.py
+=== QR Code Generator (terminal) ===
+
+Enter the link (ex: https://google.com): https://google.com
+
+(qr code here)
+
+```
+
+## does the qr code expire?
+
+no, it's a static qr generated locally, it doesn't expire. it'll always work as long as the link behind it is still valid.
