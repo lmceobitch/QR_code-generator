@@ -35,4 +35,6 @@ Enter the link (ex: https://google.com): https://google.com
 
 ## does the qr code expire?
 
-no, it's a static qr generated locally, it doesn't expire. it'll always work as long as the link behind it is still valid.
+no, it's made by me ofcourse it doesnt expire,use it for how long you need, it'll always work as long as the link behind it is still valid and working.
+
+MIT License.
